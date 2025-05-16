@@ -14,3 +14,7 @@ This Power BI dashboard was created as part of the final assignment for a Power 
 
 ## Status
 Completed
+
+## Power BI File
+The full `.pbix` file is included in this repository (note: GitHub can't preview large files, but it can be downloaded and opened using Power BI Desktop).
+
